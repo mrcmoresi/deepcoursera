@@ -24,7 +24,14 @@ WIP
 WIP
 
 - Course 4: Convolutional Neural Networks
-WIP
+
+  - [Week 1 - Convolutional Neural Networks: Step by Step](https://github.com/mrcmoresi/deepcoursera/blob/master/Course%204%20CNN/Week%201/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+  - [Week 1 - Convolutional Neural Networks: Application](https://github.com/mrcmoresi/deepcoursera/blob/master/Course%204%20CNN/Week%201/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+  - [Week 2 - Residual Net (ResNet)](https://github.com/mrcmoresi/deepcoursera/blob/master/Course%204%20CNN/Week%202/Residual%2BNetworks%2B-%2Bv2.ipynb)
+  - [Week 3 - Autonomous driving - Car detection](https://github.com/mrcmoresi/deepcoursera/blob/master/Course%204%20CNN/Week%203/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+  - [Week 4 - Deep Learning & Art: Neural Style Transfer](https://github.com/mrcmoresi/deepcoursera/blob/master/Course%204%20CNN/Week%204/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+  - [Week 4 - Face Recognition for the Happy House](https://github.com/mrcmoresi/deepcoursera/blob/master/Course%204%20CNN/Week%204/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+
 
 - Course 5: Sequence Models
 WIP
