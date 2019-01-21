@@ -34,4 +34,5 @@ WIP
 
 
 - Course 5: Sequence Models
-WIP
+  - [Week 1 - Recurrent Neural Networks: Step by Step](https://github.com/mrcmoresi/deepcoursera/blob/master/Course5-RNN/week1/Building-RNN/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+  - [Week 1 - Dinosaurus Island - Character level language model](https://github.com/mrcmoresi/deepcoursera/blob/master/Course5-RNN/week1/Dinosaurus-Island/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
